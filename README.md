@@ -7,4 +7,4 @@ make
 
 ## Demo
 
-![Screenshot](Demo.jpg)
+![Screenshot](Demo.JPG)
