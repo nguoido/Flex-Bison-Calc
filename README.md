@@ -4,3 +4,7 @@ Máy tính đơn giản viết bằng Flex và Bison
 make
 
 ./calc
+
+## Demo
+
+![Screenshot](Demo.jpg)
